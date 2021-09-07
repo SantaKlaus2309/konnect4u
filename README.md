@@ -55,6 +55,6 @@ ANDROID STUDIO AND SDK TOOLS
 Android Studio is the official integrated development environment for Google's Android operating system, built on JetBrains' IntelliJ IDEA software and designed specifically for Android development. It is available for download on Windows, macOS and Linux based operating. The Android SDK is a software development kit that includes a comprehensive set of development tools. These include a debugger, libraries, a handset emulator based on QEMU, documentation, sample code, and tutorials
 
 Conclusion
-By building this project we will increase aur skill set and learn how to build and develop games and programs ,we chose java as our main programming language because it’s a platform independent programming language which will work on all the devices and operating systems. Connect4 is
+By building this project we will increase aur skill set and learn how to build and develop games and programs ,we chose java as our main programming language because it’s a platform independent programming language which will work on all the devices and operating systems. Connect4 is a 
 
 
